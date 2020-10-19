@@ -12,3 +12,9 @@ Projeto de extrema importância, pois serviu para um maior aprendizado de MongoD
 - NodeJS
 	- Express
 	- Nodemon
+
+### Funcionamento
+    npm install package.json
+    npm run build:watch
+    npm run build
+    npm run dev
